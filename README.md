@@ -3,8 +3,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 
-firstly run :```bash
-npm insatll
+first, run all dependencies:
+```bash
+npm install
 ```
 
 second, run the development server:
